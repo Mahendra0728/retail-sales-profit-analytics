@@ -1,4 +1,4 @@
-# Retail Sales & Profit Analysis & Prediction
+# Retail Sales & Profit Analytics & Prediction
 
 ## Project Overview
 This project analyzes retail sales data to identify profitability trends, regional performance, product-level insights, and business factors affecting profit using Python, SQL, Machine Learning, and Power BI.
