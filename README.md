@@ -1,4 +1,4 @@
-# Retail Sales & Profit Analysis
+# Retail Sales & Profit Analytics
 
 ## Project Overview
 This project focuses on analyzing retail sales data to evaluate sales performance, profitability, regional performance, product-level trends, and business factors affecting profit.
